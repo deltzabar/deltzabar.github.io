@@ -1,0 +1,21 @@
+@font-face { font-family: EBGaramond; src: url('ttf/EBGaramond08-Regular.ttf'); } 
+h2, p, ol, ul {
+    font-family: EBGaramond
+}
+
+body {
+    background-color: #660000;
+    color: #FFEAD0;
+}
+
+a {
+    color: #F9AEBE;
+}
+
+p, a, ul, ol {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 40px;
+}
