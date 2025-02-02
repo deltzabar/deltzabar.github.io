@@ -1,5 +1,5 @@
 @font-face { font-family: EBGaramond; src: url('ttf/EBGaramond08-Regular.ttf'); } 
-h2, p, ol, ul {
+h2, p, ol, ul, table, a {
     font-family: EBGaramond
 }
 
@@ -12,10 +12,16 @@ a {
     color: #F9AEBE;
 }
 
-p, a, ul, ol {
+p, a, ul, ol, table {
     font-size: 20px;
 }
 
 h2 {
     font-size: 40px;
 }
+
+.center {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+  }
