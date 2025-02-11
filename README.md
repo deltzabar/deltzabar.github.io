@@ -1,0 +1,7 @@
+Currently Planning to Add Next:
+
+- A music section, mostly ripping a concept my wonderful friend abi is working on to show recent tracks I've listened to, but also compiling some other fun stuff like my current "songs i want to listen to right now x" as well as particularly fun stuff i like on bandcamp/similar
+- Slightly better site navigation? Maybe
+- More poems that I have collected in various places so I can keep them somewhere more centralised
+- A minimal amount of responsive code or at least some padding. Anything to make the pages look *a little bit* better on different devices. I don't really care about design but I *do* care about accessibility. 
+
