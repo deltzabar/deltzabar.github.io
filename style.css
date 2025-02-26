@@ -1,5 +1,5 @@
 @font-face { font-family: EBGaramond; src: url('ttf/EBGaramond08-Regular.ttf'); } 
-h2, p, ol, ul, table, a {
+h2, p, ol, ul, table, a, h3 {
     font-family: EBGaramond
 }
 
@@ -14,6 +14,10 @@ a {
 
 p, a, ul, ol, table {
     font-size: 20px;
+}
+
+h3 {
+    font-size: 30px;
 }
 
 h2 {
