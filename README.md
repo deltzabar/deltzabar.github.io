@@ -6,5 +6,5 @@ Currently Planning to Add Next:
 - update favourite fish page
 - add a "learn less about me" page that produces misinformation
 - sort out license
-
+- add hackathon stuff :)
 
