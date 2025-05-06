@@ -1,5 +1,5 @@
 @font-face { font-family: EBGaramond; src: url('ttf/EBGaramond08-Regular.ttf'); } 
-h2, p, ol, ul, table, a, h3 {
+h2, p, ol, ul, table, a, h3, h4 {
     font-family: EBGaramond
 }
 
@@ -16,6 +16,11 @@ p, a, ul, ol, table {
     font-size: 25px;
 }
 
+h4 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
 h3 {
     font-size: 35px;
 }
@@ -28,6 +33,25 @@ h2 {
     margin: auto;
     width: 95%;
     padding: 10px;
-  }
+}
 
-/*This is a test*/
+topnav {
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.topnav a {
+    text-align: center;
+    padding: 12px 10px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.topnav a.active {
+    background-color: #F9AEBE;
+    color: #660000;
+}
+
