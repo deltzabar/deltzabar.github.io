@@ -1,0 +1,41 @@
+<html lang="en">
+<head>
+    <title>Sof Wolf - CV & Research</title>
+    <link rel="stylesheet" href="style.css">
+        <link rel="icon" href="vampironica.png">
+</head>
+<body>
+        <table class="center">
+    <tr>
+      <th>
+      <div class="topnav">
+        <a href="index.html">Home</a>
+	<a href="interesting-stuff.html">Interesting Stuff</a>
+	<a href="media.html">Media</a>
+	<a class="active" href="poetry.html">Poetry</a>
+      </div>
+      </th>
+    </tr>
+	</table>
+	
+    <div style="margin-left: 100px; margin-right: 100px;">
+    <h2>Poems Found on the Interwebs</h2>
+
+
+<br>
+    <p>
+        Back to <a href="index.html">home</a>.
+    </p>
+</div>
+    <div>
+        <table class="center">
+            <tr>
+                <th>
+        <p><a href="https://petitemare.github.io/"><- Trinity </a> &nbsp;&nbsp; |&nbsp;&nbsp; webring &nbsp;&nbsp;|  &nbsp;&nbsp; <a href="https://piturnah.xyz/">Peter Hebden -></a></p>
+                </th>
+            </tr>
+        </table>
+    </div>
+
+</body>
+</html>
